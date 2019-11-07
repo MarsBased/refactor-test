@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  song: 1
+  contest: 1
+  user: 1
+  votes_count: 0
+
+two:
+  song: 2
+  contest: 1
+  user: 2
+  votes_count: 0
